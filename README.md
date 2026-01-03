@@ -1,2 +1,6 @@
 # Projet-PHP-Group
-Ajout du projet PHP complet.
+## Membres du groupe
+Sokhna Lo Djiguel
+Noguaye Beye
+Ndeye Soukeye Mbaye
+
