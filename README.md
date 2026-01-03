@@ -1,6 +1,6 @@
 # Projet-PHP-Group
 ## Membres du groupe
-Sokhna Lo Djiguel
-Noguaye Beye
-Ndeye Soukeye Mbaye
+1. Sokhna Lo Djiguel
+2. Noguaye Beye
+3. Ndeye Soukeye Mbaye
 
